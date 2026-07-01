@@ -37,7 +37,7 @@ Calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/adityachaurasiya005/Calculator.git
+git clone https://github.com/adityachaurasiya005/Calculator-With-History.git
 ```
 
 2. Navigate to the project folder
